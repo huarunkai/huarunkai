@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="title desc">
+<title id="title">Runkai Hua</title><desc id="desc">GUI agents, multimodal learning and LLM post-training. Northeastern University, China.</desc>
+<rect width="1200" height="300" rx="8" fill="#f5f4ee"/>
+<path d="M49 40h9v9h-9z" fill="#285e51"/>
+<text x="74" y="49" font-family="Trebuchet MS,sans-serif" font-size="12" letter-spacing="2.4" fill="#285e51">LEARNING THROUGH INTERACTION</text>
+<text x="47" y="143" font-family="Georgia,serif" font-size="66" fill="#202c29">Runkai Hua</text>
+<text x="51" y="182" font-family="Trebuchet MS,sans-serif" font-size="18" fill="#65716b">Northeastern University, China</text>
+<path d="M50 215h744" stroke="#cdd7cb"/>
+<text x="51" y="255" font-family="Trebuchet MS,sans-serif" font-size="17" fill="#285e51">GUI agents  /  Multimodal learning  /  LLM post-training</text>
+<g transform="translate(909 45)"><rect width="213" height="213" fill="#e2e8df"/><circle cx="155" cy="59" r="93" fill="none" stroke="#bdcbbf"/><circle cx="20" cy="210" r="104" fill="none" stroke="#bdcbbf"/><text x="38" y="138" font-family="Georgia,serif" font-size="92" fill="#285e51" letter-spacing="-13">RH</text><rect x="183" y="20" width="8" height="8" fill="#285e51"/><path d="M0 212h213" stroke="#285e51" stroke-width="2"/></g>
+</svg>
